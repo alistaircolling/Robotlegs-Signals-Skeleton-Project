@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" width="350" backgroundColor="0xFFFF44" xmlns:s="library://ns.adobe.com/flex/spark">
+	<s:HGroup paddingBottom="10"
+			  paddingLeft="10"
+			  paddingRight="10"
+			  paddingTop="10">
+		<s:TextArea text="I AM AN EXAMPLE COMPONENT" id="textA"/>
+		<s:Button id="btn" label="click me"/>
+	</s:HGroup>
+</mx:Canvas>
